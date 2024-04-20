@@ -6,4 +6,6 @@ This repository contains a detailed analysis and a report based on a study condu
 
 Eniac predominantly offers high end tech products and Apple-compatible accessories and is keen n ensuring customer satisfaction through fast deliveries. There are concerns **whether Magist is an appropriate partner for high end tech products** and about their **speed of deliveries**.
 
+To find the answer to these questions, Data-Exploration using MySQL Workbench and Data-Visulation using Tableau was done in this project.
+
 
